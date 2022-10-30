@@ -16,9 +16,8 @@
         $query    = "INSERT into `users` (username, password, email, phone, create_datetime)
                      VALUES ('$username', '" . md5($password) . "', '$email', '$phone', '$create_datetime')";
         $result   = mysqli_query($con, $query);
-        if ($rows == 1) {
+        if ($result) {
             $_SESSION['username'] = $username;
-            $_SESSION['password'] = $password;
             echo json_encode(array('success' => 1));
 
         } else {
