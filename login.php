@@ -22,8 +22,8 @@
         $rows = mysqli_num_rows($result);
         if ($rows == 1) {
             $_SESSION['username'] = $username;
-            // Redirect to user dashboard page
-            header("Location: dashboard.php");
+            // Redirect to user index page
+            header("Location: index.php");
         } else {
             echo "<div class='form'>
                   <h3>Incorrect Username/password.</h3><br/>

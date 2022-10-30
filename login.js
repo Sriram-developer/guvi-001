@@ -13,7 +13,7 @@ $(document).ready(function() {
                 // let's redirect
                 if (jsonData.success == "1")
                 {
-                    location.href = 'dashboard.php';
+                    location.href = 'index.php';
                 }
                 else
                 {
