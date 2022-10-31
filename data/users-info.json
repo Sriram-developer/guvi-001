@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "username": "sri761177@gmail.com",
+        "email": "sri761177@gmail.com",
+        "password": "686cdb679233803f798d212afdb57882",
+        "create_datetime": "2022-10-30 16:19:48",
+        "phone": null
+    },
+    {
+        "id": "2",
+        "username": "asfd123",
+        "email": "sri7611ADA77@gmail.com",
+        "password": "25d55ad283aa400af464c76d713c07ad",
+        "create_datetime": "2022-10-30 20:11:10",
+        "phone": "12345678"
+    },
+    {
+        "id": "3",
+        "username": "asfd11",
+        "email": "asdf11@gmail.com",
+        "password": "e10adc3949ba59abbe56e057f20f883e",
+        "create_datetime": "2022-10-30 20:15:29",
+        "phone": "9999214343"
+    },
+    {
+        "id": "4",
+        "username": "asfd11",
+        "email": "asdf11@gmail.com",
+        "password": "e10adc3949ba59abbe56e057f20f883e",
+        "create_datetime": "2022-10-30 20:15:39",
+        "phone": "999921"
+    },
+    {
+        "id": "5",
+        "username": "asfd11",
+        "email": "asdf11@gmail.com",
+        "password": "e10adc3949ba59abbe56e057f20f883e",
+        "create_datetime": "2022-10-30 20:15:54",
+        "phone": "999921"
+    },
+    {
+        "id": "6",
+        "username": "asfd12",
+        "email": "asfd12@gmail.com",
+        "password": "25d55ad283aa400af464c76d713c07ad",
+        "create_datetime": "2022-10-30 20:17:59",
+        "phone": "8870467400"
+    },
+    {
+        "id": "7",
+        "username": "asfd123",
+        "email": "asfd123@gmail.com",
+        "password": "bcad1f57ff35940ac0378cc07bdbfe15",
+        "create_datetime": "2022-10-30 20:19:10",
+        "phone": "8870467345"
+    },
+    {
+        "id": "8",
+        "username": "Sriram.M",
+        "email": "sgd@gmail.con",
+        "password": "806379e230b4283d02e676e99f730621",
+        "create_datetime": "2022-10-31 14:25:03",
+        "phone": "1234567891"
+    },
+    {
+        "id": "9",
+        "username": "Sriram.M",
+        "email": "sgd@gmail.con",
+        "password": "806379e230b4283d02e676e99f730621",
+        "create_datetime": "2022-10-31 14:28:36",
+        "phone": "1234567891"
+    }
+]
