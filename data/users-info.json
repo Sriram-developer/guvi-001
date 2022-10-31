@@ -14,5 +14,21 @@
         "password": "13012d980cd71903103cbf9af3a89a5c",
         "phone": "78465784888",
         "create_datetime": "2022-10-31 20:25:06"
+    },
+    {
+        "id": "3",
+        "username": "ddf",
+        "email": "ddf@gmail.com",
+        "password": "2e033e82794e11fea8b2a046f79631eb",
+        "phone": "189243537",
+        "create_datetime": "2022-10-31 23:11:33"
+    },
+    {
+        "id": "4",
+        "username": "sriram",
+        "email": "sri761177@gmail.com",
+        "password": "bab8487cfbb845242a4815ddfb232988",
+        "phone": "12345678912",
+        "create_datetime": "2022-10-31 23:58:28"
     }
 ]
