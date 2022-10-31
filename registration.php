@@ -27,17 +27,17 @@
         if ($result) {
             echo "<div class='form'>
                   <h3>You are registered successfully.</h3><br/>
-                  <p class='link'>Click here to <a href='login.php'>Login</a></p>
+                  <p class='link'>Click here to <a href='login.html'>Login</a></p>
                   </div>";
         } else {
             echo "<div class='form'>
                   <h3>Required fields are missing.</h3><br/>
-                  <p class='link'>Click here to <a href='registration.php'>registration</a> again.</p>
+                  <p class='link'>Click here to <a href='registration.html'>registration</a> again.</p>
                   </div>";
         }
     } else {
 ?>
-    <form class="form" action="" method="post">
+    <form class="form"  method="post">
         <h1 class="login-title">GUVI Registration</h1>
         <input type="text" class="login-input" name="username" placeholder="Username" required />
         <input type="text" class="login-input" name="email" placeholder="Email Address">
