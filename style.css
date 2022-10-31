@@ -1,9 +1,11 @@
-
+body {
+    background-image: url("img/svg-background.webp")
+}
 .form {
     margin: 50px auto;
     width: 300px;
     padding: 30px 25px;
-    background: white;
+   // background: white;
 }
 h1.login-title {
     color: #009933;
